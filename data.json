@@ -1,0 +1,422 @@
+[
+  {
+    "nome": "Ferrari",
+    "criador": "Enzo Ferrari",
+    "descricao": "A Ferrari é uma fabricante italiana de automóveis de luxo e carros esportivos de alto desempenho, conhecida por seu design elegante e engenharia avançada.",
+    "ano": "Fundada em 1939",
+    "link": "https://www.ferrari.com"
+  },
+  {
+    "nome": "Lamborghini",
+    "criador": "Ferruccio Lamborghini",
+    "descricao": "A Lamborghini é uma marca italiana de carros esportivos de luxo, famosa por seus designs arrojados e desempenho excepcional, frequentemente associada a veículos exóticos e de alta performance.",
+    "ano": "Fundada em 1963",
+    "link": "https://www.lamborghini.com"
+  },
+  {
+    "nome": "Porsche",
+    "criador": "Ferdinand Porsche",
+    "descricao": "A Porsche é uma fabricante alemã de automóveis esportivos de luxo, famosa por seus carros de alto desempenho, design icônico e engenharia de precisão, com destaque para o modelo 911.",
+    "ano": "Fundada em 1931",
+    "link": "https://www.porsche.com"
+  },
+  {
+    "nome": "Bugatti",
+    "criador": "Ettore Bugatti",
+    "descricao": "A Bugatti é uma fabricante francesa de carros de luxo e de alto desempenho, conhecida por produzir alguns dos carros mais rápidos e exclusivos do mundo, como o Veyron e o Chiron.",
+    "ano": "Fundada em 1909",
+    "link": "https://www.bugatti.com"
+  },
+  {
+    "nome": "Rolls-Royce",
+    "criador": "Charles Rolls e Henry Royce",
+    "descricao": "A Rolls-Royce é uma marca britânica de automóveis de luxo, sinônimo de opulência, artesanato requintado e conforto inigualável, sendo uma das marcas mais prestigiadas do mundo.",
+    "ano": "Fundada em 1904",
+    "link": "https://www.rolls-roycemotorcars.com"
+  },
+  {
+    "nome": "Pagani",
+    "criador": "Horacio Pagani",
+    "descricao": "A Pagani é uma fabricante italiana de supercarros e componentes de fibra de carbono, conhecida por seus carros extremamente exclusivos, designs artísticos e desempenho de ponta.",
+    "ano": "Fundada em 1992",
+    "link": "https://www.pagani.com"
+  },
+  {
+    "nome": "Bentley",
+    "criador": "Walter Owen Bentley",
+    "descricao": "A Bentley é uma fabricante britânica de carros e SUVs de luxo, conhecida por sua combinação de desempenho e artesanato de alta qualidade.",
+    "ano": "Fundada em 1919",
+    "link": "https://www.bentleymotors.com"
+  },
+  {
+    "nome": "Maserati",
+    "criador": "Alfieri Maserati",
+    "descricao": "A Maserati é uma fabricante italiana de veículos de luxo, reconhecida por seu design elegante e herança em corridas, oferecendo uma mistura de estilo e desempenho.",
+    "ano": "Fundada em 1914",
+    "link": "https://www.maserati.com"
+  },
+  {
+    "nome": "Aston Martin",
+    "criador": "Lionel Martin e Robert Bamford",
+    "descricao": "A Aston Martin é uma marca britânica de carros esportivos de luxo e grand tourers, famosa por seu design sofisticado e por ser o carro preferido do personagem James Bond.",
+    "ano": "Fundada em 1913",
+    "link": "https://www.astonmartin.com"
+  },
+  {
+    "nome": "McLaren",
+    "criador": "Bruce McLaren",
+    "descricao": "A McLaren é uma fabricante britânica focada em supercarros de alto desempenho, aplicando tecnologia de ponta derivada de sua bem-sucedida equipe de Fórmula 1.",
+    "ano": "Fundada em 1985",
+    "link": "https://cars.mclaren.com"
+  },
+  {
+    "nome": "Koenigsegg",
+    "criador": "Christian von Koenigsegg",
+    "descricao": "A Koenigsegg é uma fabricante sueca de carros esportivos de altíssimo desempenho, conhecida por produzir alguns dos hipercarros mais rápidos e tecnologicamente avançados do mundo.",
+    "ano": "Fundada em 1994",
+    "link": "https://www.koenigsegg.com"
+  },
+  {
+    "nome": "Jaguar",
+    "criador": "William Lyons e William Walmsley",
+    "descricao": "A Jaguar é uma marca britânica de veículos de luxo, famosa por seus sedãs e carros esportivos elegantes que combinam desempenho e design sofisticado.",
+    "ano": "Fundada em 1922",
+    "link": "https://www.jaguar.com"
+  },
+  {
+    "nome": "Lexus",
+    "criador": "Eiji Toyoda",
+    "descricao": "A Lexus é a divisão de veículos de luxo da Toyota, conhecida por seu foco em qualidade, conforto e confiabilidade, oferecendo uma ampla gama de sedãs e SUVs premium.",
+    "ano": "Fundada em 1989",
+    "link": "https://www.lexus.com"
+  },
+  {
+    "nome": "Mercedes-Benz",
+    "criador": "Karl Benz e Gottlieb Daimler",
+    "descricao": "A Mercedes-Benz é uma marca alemã globalmente reconhecida por seus veículos de luxo, que vão desde sedãs e SUVs a carros esportivos da linha AMG, simbolizando engenharia de ponta e prestígio.",
+    "ano": "Fundada em 1926",
+    "link": "https://www.mercedes-benz.com"
+  },
+  {
+    "nome": "Audi",
+    "criador": "August Horch",
+    "descricao": "A Audi é uma fabricante alemã de automóveis de luxo, conhecida por seu design sofisticado, tecnologia inovadora e o sistema de tração integral quattro.",
+    "ano": "Fundada em 1909",
+    "link": "https://www.audi.com"
+  },
+  {
+    "nome": "BMW",
+    "criador": "Karl Rapp e Gustav Otto",
+    "descricao": "A BMW (Bayerische Motoren Werke) é uma empresa alemã famosa por seus carros de luxo e de alto desempenho, que oferecem uma experiência de condução dinâmica e esportiva.",
+    "ano": "Fundada em 1916",
+    "link": "https://www.bmw.com"
+  },
+  {
+    "nome": "Cadillac",
+    "criador": "Henry Leland",
+    "descricao": "A Cadillac é uma divisão da General Motors e uma das marcas de automóveis de luxo mais antigas do mundo, conhecida por seu estilo arrojado e conforto.",
+    "ano": "Fundada em 1902",
+    "link": "https://www.cadillac.com"
+  },
+  {
+    "nome": "Land Rover",
+    "criador": "Maurice Wilks e Spencer Wilks",
+    "descricao": "A Land Rover é uma marca britânica especializada em veículos utilitários esportivos (SUVs) de luxo com capacidades off-road excepcionais.",
+    "ano": "Fundada em 1948",
+    "link": "https://www.landrover.com"
+  },
+  {
+    "nome": "Volvo",
+    "criador": "Assar Gabrielsson e Gustaf Larson",
+    "descricao": "A Volvo é uma marca sueca de veículos de luxo, mundialmente reconhecida por seu foco pioneiro em segurança automotiva, além de design escandinavo e conforto.",
+    "ano": "Fundada em 1927",
+    "link": "https://www.volvocars.com"
+  },
+  {
+    "nome": "Alfa Romeo",
+    "criador": "Ugo Stella",
+    "descricao": "A Alfa Romeo é uma fabricante italiana de carros com uma rica herança em corridas, conhecida por seu design apaixonante e desempenho esportivo.",
+    "ano": "Fundada em 1910",
+    "link": "https://www.alfaromeo.com"
+  },
+  {
+    "nome": "Acura",
+    "criador": "Honda Motor Co.",
+    "descricao": "A Acura é a divisão de luxo da Honda, conhecida por seus veículos de alto desempenho e tecnologia avançada, focados no mercado norte-americano.",
+    "ano": "Fundada em 1986",
+    "link": "https://www.acura.com"
+  },
+  {
+    "nome": "Genesis",
+    "criador": "Hyundai Motor Group",
+    "descricao": "A Genesis é a divisão de veículos de luxo da Hyundai, que se destaca pelo design 'Athletic Elegance', conforto e tecnologia de ponta.",
+    "ano": "Fundada em 2015",
+    "link": "https://www.genesis.com"
+  },
+  {
+    "nome": "Infiniti",
+    "criador": "Nissan Motor Corporation",
+    "descricao": "A Infiniti é a divisão de carros de luxo da Nissan, conhecida por seus veículos com design expressivo e desempenho potente.",
+    "ano": "Fundada em 1989",
+    "link": "https://www.infiniti.com"
+  },
+  {
+    "nome": "Lincoln",
+    "criador": "Henry Leland",
+    "descricao": "A Lincoln é a divisão de luxo da Ford, focada em SUVs que oferecem uma experiência de 'luxo silencioso' com ênfase no conforto e na tecnologia.",
+    "ano": "Fundada em 1917",
+    "link": "https://www.lincoln.com"
+  },
+  {
+    "nome": "Polestar",
+    "criador": "Volvo Car Corporation e Geely Holding",
+    "descricao": "Uma marca sueca de veículos elétricos de alto desempenho, originada da Volvo, que combina design minimalista com sustentabilidade e performance.",
+    "ano": "Fundada em 1996",
+    "link": "https://www.polestar.com"
+  },
+  {
+    "nome": "Lucid",
+    "criador": "Peter Rawlinson",
+    "descricao": "Uma fabricante americana de veículos elétricos de luxo, focada em autonomia de longo alcance, desempenho e design inovador.",
+    "ano": "Fundada em 2007",
+    "link": "https://www.lucidmotors.com"
+  },
+  {
+    "nome": "Rivian",
+    "criador": "Robert 'RJ' Scaringe",
+    "descricao": "Uma fabricante americana de veículos elétricos de aventura, conhecida por sua picape R1T e SUV R1S, que combinam luxo e capacidade off-road.",
+    "ano": "Fundada em 2009",
+    "link": "https://www.rivian.com"
+  },
+  {
+    "nome": "Rimac",
+    "criador": "Mate Rimac",
+    "descricao": "Uma fabricante croata de hipercarros elétricos, conhecida por produzir alguns dos carros mais rápidos e potentes do mundo, como o Nevera.",
+    "ano": "Fundada em 2009",
+    "link": "https://www.rimac-automobili.com"
+  },
+  {
+    "nome": "Lotus",
+    "criador": "Colin Chapman",
+    "descricao": "Uma fabricante britânica de carros esportivos e de corrida, famosa por seus veículos leves, ágeis e com excelente dirigibilidade.",
+    "ano": "Fundada em 1948",
+    "link": "https://www.lotuscars.com"
+  },
+  {
+    "nome": "Spyker",
+    "criador": "Jacobus e Hendrik-Jan Spijker",
+    "descricao": "Uma fabricante holandesa de carros esportivos feitos à mão, conhecida por seus interiores luxuosos e detalhes inspirados na aviação.",
+    "ano": "Fundada em 1880",
+    "link": "https://www.spykercars.com"
+  },
+  {
+    "nome": "Wiesmann",
+    "criador": "Martin Wiesmann e Friedhelm Wiesmann",
+    "descricao": "Uma fabricante alemã de carros esportivos customizados com estilo retrô e tecnologia moderna, combinando motores potentes com design clássico.",
+    "ano": "Fundada em 1988",
+    "link": "https://www.wiesmann.com"
+  },
+  {
+    "nome": "Zenvo",
+    "criador": "Troels Vollertsen",
+    "descricao": "Uma fabricante dinamarquesa de hipercarros de altíssimo desempenho, famosa por sua aerodinâmica inovadora e produção extremamente limitada.",
+    "ano": "Fundada em 2007",
+    "link": "https://www.zenvoautomotive.com"
+  },
+  {
+    "nome": "Hennessey",
+    "criador": "John Hennessey",
+    "descricao": "Uma empresa americana que projeta e constrói hipercarros, como o Venom F5, com o objetivo de quebrar recordes de velocidade máxima.",
+    "ano": "Fundada em 1991",
+    "link": "https://www.hennesseyperformance.com"
+  },
+  {
+    "nome": "DS Automobiles",
+    "criador": "Groupe PSA (Stellantis)",
+    "descricao": "A marca de luxo do grupo PSA (agora Stellantis), que se destaca pelo design vanguardista, sofisticação e tecnologia, com origem na Citroën.",
+    "ano": "Fundada em 2014",
+    "link": "https://www.dsautomobiles.com"
+  },
+  {
+    "nome": "Karma",
+    "criador": "Henrik Fisker e Bernhard Koehler",
+    "descricao": "Uma fabricante americana de veículos elétricos de luxo e híbridos, focada em design escultural e sustentabilidade.",
+    "ano": "Fundada em 2014",
+    "link": "https://www.karmaautomotive.com"
+  },
+  {
+    "nome": "Morgan",
+    "criador": "Henry Frederick Stanley Morgan",
+    "descricao": "Uma fabricante britânica de carros esportivos feitos à mão, que mantém um design clássico e métodos de construção tradicionais, como o uso de madeira na estrutura.",
+    "ano": "Fundada em 1910",
+    "link": "https://www.morgan-motor.com"
+  },
+  {
+    "nome": "Alpine",
+    "criador": "Jean Rédélé",
+    "descricao": "A marca de carros esportivos da Renault, famosa por seus veículos leves e ágeis, com uma rica história em ralis, como o icônico A110.",
+    "ano": "Fundada em 1955",
+    "link": "https://www.alpinecars.com"
+  },
+  {
+    "nome": "De Tomaso",
+    "criador": "Alejandro de Tomaso",
+    "descricao": "Uma marca italiana de carros esportivos que combina design italiano com motorização americana, famosa por modelos como o Pantera.",
+    "ano": "Fundada em 1959",
+    "link": "https://www.detomaso-automobili.com"
+  },
+  {
+    "nome": "Pininfarina",
+    "criador": "Battista 'Pinin' Farina",
+    "descricao": "Um famoso estúdio de design italiano que agora produz seus próprios hipercarros elétricos, como o Battista, combinando beleza e desempenho extremo.",
+    "ano": "Fundada em 1930",
+    "link": "https://www.automobili-pininfarina.com"
+  },
+  {
+    "nome": "Cupra",
+    "criador": "SEAT",
+    "descricao": "A marca de alto desempenho da SEAT, agora independente, focada em veículos com design esportivo, performance e um toque de sofisticação.",
+    "ano": "Fundada em 2018",
+    "link": "https://www.cupraofficial.com"
+  },
+  {
+    "nome": "Fisker",
+    "criador": "Henrik Fisker",
+    "descricao": "Uma empresa americana focada em criar os veículos elétricos mais sustentáveis do mundo, com design emocional e tecnologia inovadora.",
+    "ano": "Fundada em 2016",
+    "link": "https://www.fiskerinc.com"
+  },
+  {
+    "nome": "GMA",
+    "criador": "Gordon Murray",
+    "descricao": "Gordon Murray Automotive, fundada pelo lendário designer da F1, cria hipercarros focados na experiência de dirigir, como o T.50.",
+    "ano": "Fundada em 2017",
+    "link": "https://gordonmurrayautomotive.com"
+  },
+  {
+    "nome": "SSC North America",
+    "criador": "Jerod Shelby",
+    "descricao": "Fabricante americana de hipercarros conhecida pelo SSC Tuatara, um dos carros mais rápidos do mundo, focado em quebrar recordes de velocidade.",
+    "ano": "Fundada em 1998",
+    "link": "https://www.sscnorthamerica.com"
+  },
+  {
+    "nome": "Apollo",
+    "criador": "Roland Gumpert",
+    "descricao": "Uma fabricante alemã de hipercarros com design extremo e foco aerodinâmico, conhecida pelo impressionante Intensa Emozione (IE).",
+    "ano": "Fundada em 2004",
+    "link": "https://apollo-automobil.com"
+  },
+  {
+    "nome": "Dallara",
+    "criador": "Gian Paolo Dallara",
+    "descricao": "Uma renomada fabricante italiana de chassis de corrida que também produz carros de estrada, como o Dallara Stradale, focados em pura performance.",
+    "ano": "Fundada em 1972",
+    "link": "https://www.dallara.it"
+  },
+  {
+    "nome": "Italdesign",
+    "criador": "Giorgetto Giugiaro e Aldo Mantovani",
+    "descricao": "Um lendário estúdio de design italiano que agora cria seus próprios supercarros de produção ultralimitada, como o Zerouno.",
+    "ano": "Fundada em 1968",
+    "link": "https://www.italdesign.it"
+  },
+  {
+    "nome": "TVR",
+    "criador": "Trevor Wilkinson",
+    "descricao": "Uma icônica marca britânica de carros esportivos, famosa por seus veículos potentes, leves e com uma experiência de condução visceral.",
+    "ano": "Fundada em 1946",
+    "link": "https://www.tvr.co.uk"
+  },
+  {
+    "nome": "Noble",
+    "criador": "Lee Noble",
+    "descricao": "Uma fabricante britânica de supercarros focada na experiência de condução analógica, conhecida por modelos como o M600.",
+    "ano": "Fundada em 1999",
+    "link": "https://www.noblecars.com"
+  },
+  {
+    "nome": "Caterham",
+    "criador": "Graham Nearn",
+    "descricao": "Fabricante britânica do icônico Seven, um carro esportivo ultraleve que oferece uma das experiências de condução mais puras e conectadas.",
+    "ano": "Fundada em 1973",
+    "link": "https://www.caterhamcars.com"
+  },
+  {
+    "nome": "Ariel",
+    "criador": "Simon Saunders",
+    "descricao": "Fabricante britânica de veículos de performance extrema, como o Atom, um carro sem carroceria que oferece aceleração de hipercarro.",
+    "ano": "Fundada em 1991",
+    "link": "https://www.arielmotor.co.uk"
+  },
+  {
+    "nome": "BAC",
+    "criador": "Neill Briggs e Ian Briggs",
+    "descricao": "A Briggs Automotive Company (BAC) fabrica o Mono, um supercarro de um só lugar, legalizado para as ruas, que oferece a experiência de um carro de fórmula.",
+    "ano": "Fundada em 2009",
+    "link": "https://www.bac-mono.com"
+  },
+  {
+    "nome": "Hongqi",
+    "criador": "First Automobile Works (FAW)",
+    "descricao": "A marca de carros de luxo mais antiga e prestigiosa da China, que produz veículos para o governo e agora oferece modelos de luxo para o público.",
+    "ano": "Fundada em 1958",
+    "link": "https://www.hongqi-auto.com"
+  },
+  {
+    "nome": "NIO",
+    "criador": "William Li",
+    "descricao": "Uma fabricante chinesa de veículos elétricos premium, inovadora em tecnologia de baterias trocáveis e condução autônoma.",
+    "ano": "Fundada em 2014",
+    "link": "https://www.nio.com"
+  },
+  {
+    "nome": "Yangwang",
+    "criador": "BYD",
+    "descricao": "A submarca de luxo da BYD, focada em veículos elétricos de altíssima performance e tecnologia de ponta, como o SUV U8 que pode flutuar.",
+    "ano": "Fundada em 2023",
+    "link": "https://www.yangwangauto.com"
+  },
+  {
+    "nome": "Delage",
+    "criador": "Louis Delâge",
+    "descricao": "Marca francesa histórica de automóveis de luxo e corridas, revivida recentemente para produzir hipercarros exclusivos e de série limitada.",
+    "ano": "Fundada em 1905",
+    "link": "https://www.delage.fr/"
+  },
+  {
+    "nome": "Cizeta",
+    "criador": "Claudio Zampolli e Giorgio Moroder",
+    "descricao": "Fabricante italiano de supercarros notável pelo V16T da década de 90, conhecido por sua extrema raridade e design icônico de quatro faróis.",
+    "ano": "Fundada em 1988",
+    "link": "https://cizetamotors.com/"
+  },
+  {
+    "nome": "Saleen Automotive",
+    "criador": "Steve Saleen",
+    "descricao": "Empresa americana especializada em modificação de veículos de alto desempenho e na fabricação de supercarros próprios, mais notavelmente o Saleen S7.",
+    "ano": "Fundada em 1983",
+    "link": "https://www.saleen.com/"
+  },
+  {
+    "nome": "Vector Motors",
+    "criador": "Gerald Wiegert",
+    "descricao": "Fabricante americano de supercarros que se concentrava em designs exóticos e avançados, utilizando tecnologia aeroespacial nas décadas de 80 e 90.",
+    "ano": "Fundada em 1971",
+    "link": "https://www.vectormotors.com/"
+  },
+  {
+    "nome": "Isdera",
+    "criador": "Eberhard Schulz",
+    "descricao": "Pequeno fabricante alemão de automóveis de alto desempenho, notável por seus designs exclusivos, como o Imperator 108i e o Commendatore.",
+    "ano": "Fundada em 1982",
+    "link": "https://www.isdera.de/"
+  },
+  {
+    "nome": "Vinicius",
+    "criador": "Vinicius Lopes",
+    "descricao": "Um entusiasta de carros e desenvolvedor que contribuiu para esta lista.",
+    "ano": "2025",
+    "link":"https://www.instagram.com/vinicius._lopes_?igsh=MWk4cjByd3JjcHA3Zw=="
+  }
+]

@@ -1,0 +1,164 @@
+/* Estilos Gerais */
+body {
+    background-color: #121212; /* Fundo escuro (quase preto) */
+    color: #E0E0E0; /* Cor de texto principal (cinza claro) */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 0;
+    line-height: 1.6;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #1C1C1C; /* Um pouco mais claro que o fundo */
+    padding: 2rem 1rem;
+    text-align: center;
+    border-bottom: 2px solid #D4AF37; /* Linha dourada para um toque de luxo */
+}
+
+header h1 {
+    font-size: 2.8em; /* Um pouco maior para mais impacto */
+    font-weight: 400; /* Um pouco mais de peso */
+    letter-spacing: 3px; /* Mais espaçamento para um visual refinado */
+    margin-bottom: 1.5rem;
+    text-transform: uppercase; /* Transforma o texto em maiúsculas */
+
+    /* Efeito de gradiente dourado no texto */
+    background: linear-gradient(45deg, #FBF5E2, #D4AF37);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5); /* Sombra para dar profundidade */
+}
+
+/* Formulário de Busca */
+#form-busca {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+#caixa-busca {
+    width: 300px;
+    padding: 10px 15px;
+    font-size: 1rem;
+    background-color: #2A2A2A;
+    border: 1px solid #555;
+    border-radius: 5px;
+    color: #E0E0E0;
+}
+
+#caixa-busca::placeholder {
+    color: #888;
+}
+
+#form-busca button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: #D4AF37; /* Dourado */
+    color: #121212; /* Texto escuro para contraste */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#form-busca button:hover {
+    background-color: #EACD6F; /* Dourado mais claro ao passar o mouse */
+}
+
+/* Container dos Cards */
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 25px;
+    padding: 40px 20px;
+}
+
+/* Estilo dos Cards */
+.card {
+    background-color: #1E1E1E;
+    border: 1px solid #333;
+    border-radius: 8px;
+    padding: 20px;
+    width: 320px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.7);
+}
+
+.card p {
+    margin: 0 0 10px 0;
+}
+
+/* Botão "Saiba mais" */
+.card a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 16px;
+    background-color: #002D62; /* Azul escuro que já usamos */
+    color: #FFFFFF;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.card a:hover {
+    background-color: #004080; /* Azul um pouco mais claro */
+}
+
+/* Rodapé */
+.footer {
+    background-color: #1C1C1C;
+    border-top: 2px solid #D4AF37;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+.footer-links a {
+    color: #AAA;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.footer-links a:hover {
+    color: #D4AF37; /* Links ficam dourados ao passar o mouse */
+}
+
+/* Mensagem de busca não encontrada */
+.not-found {
+    color: #AAA;
+    font-size: 1.2rem;
+    text-align: center;
+    width: 100%;
+}
+
+/* Estilo para o novo texto do rodapé */
+.footer-text {
+    color: #AAA;
+    margin: 5px 0;
+}
+
+.footer-link {
+    color: #D4AF37;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
